@@ -1,2 +1,1 @@
-# Gama927
-Programador
+
